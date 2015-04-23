@@ -4,10 +4,10 @@
  * Author: Xiaoying Riley at 3rd Wave Media
  * Website: http://themes.3rdwavemedia.com/
  * Twitter: @3rdwave_themes
-*/
-/* Default */
-/* ======= Base ======= */
-body {
+ */
+ /* Default */
+ /* ======= Base ======= */
+ body {
   font-family: 'Lato', arial, sans-serif;
   color: #444444;
   font-size: 16px;
@@ -611,6 +611,7 @@ pre code {
     font-size: 18px;
   }
 }
+
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
